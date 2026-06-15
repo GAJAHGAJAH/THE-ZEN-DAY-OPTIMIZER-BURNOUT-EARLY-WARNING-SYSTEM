@@ -1,11 +1,3 @@
-# =========================================================
-# PROYEK UAS JST: THE ZEN-DAY OPTIMIZER
-# Nama: Dimas Prasetyo
-# NIM : 1123150165
-# Kelas: [SESUAIKAN KELAS ANDA, MISAL: TI23SE1]
-# Deskripsi: Sistem Peringatan Dini Burnout menggunakan Perceptron & Backpropagation
-# UI/UX  : Direvitalisasi dengan tema "Zen Dark" - clean, modern, dashboard-style
-# =========================================================
 
 import streamlit as st
 import numpy as np
